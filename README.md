@@ -8,8 +8,17 @@ around music
 ## New Feature
 This is a description of the new feature added in the feature branch.
 
+## Contributors
+- Sevim
+- Harun
+- Baris
+- Sude
+
 ## New Branch for Harun
 This branch is created by Harun
 
 ## New Branch for Baris
 This branch is created by Baris
+
+## New Branch for Sude
+This branch is created by Sude
