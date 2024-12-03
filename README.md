@@ -4,3 +4,6 @@ helps users create their own music archives and evaluate the albums and songs th
 Melodyboxd aims to provide a better experience for music enthusiasts and encourage the discovery of new
 music. This software is intended to provide broader access to the music industry and bring people together
 around music
+
+## New Feature
+This is a description of the new feature added in the feature branch.
